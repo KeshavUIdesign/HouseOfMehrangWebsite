@@ -1,0 +1,10 @@
+{
+  "description": "Explore a 3D living room showcasing House of Mehrang's products, allowing users to interact with items for detailed information and enhance their shopping experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
